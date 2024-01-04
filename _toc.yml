@@ -1,9 +1,10 @@
 format: jb-book
 root: README
 parts:
-  - caption: Preamble
+  - caption: Essential info
     chapters:
-      - file: notebooks/how-to-cite
-  - caption: Introduction
-    chapters:
-      - file: notebooks/notebook-template
+      - file: schedule
+      - file: travel
+      - file: virtual
+      - file: faq
+      - file: onboarding
