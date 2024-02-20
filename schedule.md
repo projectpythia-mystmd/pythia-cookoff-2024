@@ -1,6 +1,6 @@
 # Hackathon schedule 
 
-_This is an early draft and will most likely change._
+_This is a placeholder draft and will change._
 
 - All rooms are in the [NCAR Mesa Laboratory](https://scied.ucar.edu/visit)
 - All times are Mountain Daylight Time, UTC-6 (local time in Boulder CO)
