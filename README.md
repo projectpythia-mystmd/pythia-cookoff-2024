@@ -7,7 +7,7 @@
 
 ## Save the Date!
 
-**June 10-14 2024, in person at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) and virtual**
+**June 11-14 2024, in person at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) and virtual**
 
 _**Travel funding** will be available for some in-person participants! Stay tuned for more information._
 
