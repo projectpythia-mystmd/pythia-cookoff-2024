@@ -9,7 +9,7 @@
 
 Registration for the 2024 Pythia Cook-off hackathon for geoscientific Python Cookbook development is now live!
 
-Join June 11-14 2024 in-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) or virtually via Zoom.
+Join Project Pythia June 11-14 2024 in-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) or virtually via Zoom.
 
 New in 2024, Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for in-person participants!
 If full or partial travel support could help you attend this year's hackathon, please see the [](travel.md) page for more information.
