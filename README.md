@@ -12,9 +12,13 @@ Registration for the 2024 Pythia Cook-off hackathon for geoscientific Python Coo
 Join Project Pythia June 11-14 2024 in-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) or virtually via Zoom.
 
 New in 2024, Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for in-person participants!
-If full or partial travel support could help you attend this year's hackathon, please see the [](travel.md) page for more information.
+If full or partial travel support could help you attend this year's hackathon, please see the [Travel Information](travel.md) page for more information.
 
-The deadline for registration is **May 26**, with priority registration for travel support consideration due by **March 29**. There is a $50 USD registration fee due at the time of registration to support event expenses.
+The deadline for all registration is **May 26**, with priority registration for travel support consideration due by **March 29**.
+There is a $50 USD registration fee for in-person attendees due at the time of registration to support event expenses.
+Virtual-only registration will remain free.
+
+Bring your own ideas and existing materials, and consider leading a [breakout group](breakouts.md) to hack alongside other interested folks in your area of expertise.
 
 Head to [our registration page](https://www.eventsquid.com/event.cfm?id=23645) to sign up!
 
