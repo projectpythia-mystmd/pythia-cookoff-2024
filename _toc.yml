@@ -5,6 +5,7 @@ parts:
     chapters:
       - file: schedule
       - file: travel
+      - file: breakouts
       - file: virtual
-      - file: faq
       - file: onboarding
+      - file: faq
