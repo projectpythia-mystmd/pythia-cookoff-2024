@@ -1,7 +1,38 @@
-# Travel info
+# Travel Information
 
-The Pythia Cook-Off takes place at the NCAR Mesa Lab:
+## Location and Lodging
 
-1850 Table Mesa Dr, Boulder, CO 80305.
+The 2024 Pythia Cook-off will be hosted at the NCAR Mesa Lab:
 
-_Stay tuned for more information about travel and lodging._
+1850 Table Mesa Dr.
+Boulder, CO 80305
+
+All in-person registrants will be provided additional information about exclusive rates for local lodging and week-of travel details.
+
+
+## Funding for travel
+
+New in 2024, Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for in-person participants!
+
+
+### How?
+
+#### Full Travel Support
+
+Register for in-person attendance by **March 29** to receive consideration for full travel support, including airfare, lodging, and local food and travel expenses.
+To be considered, the application will request some additional information from you, including four brief prompts about how support might benefit your personal and professional goals.
+If you are requesting travel support, the registration will provide you with a temporary fee waiver coupon code to complete your full registration.
+You will be notified of award for full travel support by **April 8**.
+
+
+#### Partial Travel Support
+
+Register for in-person attendance by **May 3** to receive consideration for partial travel support.
+This can cover smaller expenses like local gas costs or registration fee waivers.
+Partial travel support will be offered as-available after fully supported travel allocations are sent out.
+If you apply for fully supported travel and do not receive a full award, you will automatically be considered for partial travel support.
+You will be notified for award of partial travel support by **May 13**.
+
+If you request either form of travel support and receive neither, you will be contacted to finalize your registration with payment of fee before registration deadline.
+
+If you have any questions or considerations, please contact [projectpythia@ucar.edu](mailto:projectpythia@ucar.edu).
