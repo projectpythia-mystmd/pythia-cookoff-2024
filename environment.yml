@@ -4,18 +4,4 @@ channels:
 dependencies:
   - jupyter-book
   - jupyterlab
-  - jupyter_server
-  - pip
-  - python<3.12
-  - sphinx==4.5.0
-  - sphinxcontrib-applehelp<1.0.7 
-  - sphinxcontrib-devhelp<1.0.5 
-  - sphinxcontrib-htmlhelp<2.0.4 
-  - sphinxcontrib-qthelp<1.0.6 
-  - sphinxcontrib-serializinghtml<1.1.9
-  - sphinx-design
-  - pydata-sphinx-theme<=0.8
-  - jsonschema-with-format-nongpl<4.19.1
-  - docutils==0.16
-  - pip:
-      - sphinx-pythia-theme
+  - sphinx-pythia-theme
