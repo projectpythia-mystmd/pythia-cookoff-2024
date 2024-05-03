@@ -12,7 +12,7 @@ Suites](https://www.hilton.com/en/hotels/denboes-embassy-suites-boulder/),
 and the [Fairfield Inn and
 Suites](https://www.marriott.com/en-us/hotels/vboff-fairfield-inn-and-suites-boulder/overview/).
 
-The hackathon rate for the Embassy Suites is $249/night. Please email [Taysia](mailto:taysia@ucar.edu) for reservations *by May 19*.
+The hackathon rate for the Embassy Suites is $249/night. Please email [taysia@ucar.edu](mailto:taysia@ucar.edu) for reservations *by May 19*.
 
 The hackathon rate for the Fairfield Inn is $182/night. Make your own reservation for the Fairfield Inn using this [link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1706225707622&key=GRP&app=resvlink) *by May 10*.
 
