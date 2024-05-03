@@ -10,7 +10,7 @@ Yes! Our meeting rooms will be equipped for hybrid events. We will have at least
 
 ## Is there a reserved hotel block for this event?
 
-There will be. Check back soon.
+Yes, there are a limited number of rooms reserved. See the [travel page](travel.md).
 
 ## I don't know anything about how to build a Cookbook, should I attend?
 
