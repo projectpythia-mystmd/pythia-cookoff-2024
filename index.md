@@ -14,6 +14,7 @@ Click below to head to the registration page.
 :color: light
 Sign Up Here!
 ```
+````
 
 ```{include} README.md
 :start-after: Head to [our registration page](https://www.eventsquid.com/event.cfm?id=23645) to sign up!

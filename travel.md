@@ -18,6 +18,10 @@ The hackathon rate for the Fairfield Inn is $182/night. Make your own reservatio
 
 ## Funding for travel
 
+```{note}
+The travel funding window is now closed. All applicants for travel support have been notified. 
+```
+
 New in 2024, Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for in-person participants!
 
 
