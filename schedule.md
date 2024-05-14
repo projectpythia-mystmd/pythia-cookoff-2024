@@ -9,7 +9,7 @@ _This is a placeholder draft and will change._
 - 9 am: Welcome plenary (Main Seminar Room)
 - 10 am: Project pitches (Main Seminar Room)
 - 12 pm: Lunch (Cafeteria)
-- 1-4 pm: Introductory Tutorials + Hacking (Main Seminar Room and Breakout Rooms)
+- 1-4 pm: Hacking (Breakout Rooms)
 - 4 pm: Afternoon debrief (Main Seminar Room)
 - 5 pm: Adjourn
 
