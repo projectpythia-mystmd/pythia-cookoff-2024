@@ -11,6 +11,7 @@ Click below to head to the registration page.
 ```{button-link} https://www.eventsquid.com/event.cfm?id=23645
 :expand:
 :shadow:
+:color: light
 Sign Up Here!
 ```
 
