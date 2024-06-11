@@ -4,8 +4,7 @@ _This is a placeholder draft and will change._
 
 - All rooms are in the [NCAR Mesa Laboratory](https://scied.ucar.edu/visit)
 - All times are Mountain Daylight Time, UTC-6 (local time in Boulder CO)
-- Main Seminar Room [remote participant link](https://meet.google.com/qig-qfti-qxb)
-
+- The video conference link for the Main Seminar Room was emailed to all participants and available on the Slack welcome channel
 ## Tuesday June 11
 - 9 am: Welcome plenary (Main Seminar Room)
 - 10 am: Project pitches and breakout group organization (Main Seminar Room)
